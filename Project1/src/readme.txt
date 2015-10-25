@@ -1,0 +1,1 @@
+There is a notice for populating init popsize. According to the text, the author init the chromesome with length N. It may not be a candidate since it also includes the path with low bandwidth. It is not as the text discussed.
